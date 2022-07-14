@@ -10,7 +10,7 @@ import { CKEditorModule } from '@ckeditor/ckeditor5-angular'
   ],
   imports: [
     BrowserModule,
-    CKEditorModule
+    CKEditorModule,
   ],
   providers: [],
   bootstrap: [AppComponent]
